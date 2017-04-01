@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CD0E1918-A363-422E-A831-9969943411B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example/ViewController.cs">
+    <Files>
+      <File FileName="Example/ViewController.cs" Line="73" Column="44" />
+      <File FileName="Example/CustomPhoto.cs" Line="13" Column="22" />
+      <File FileName="NYTPhotoViewerBinding/ApiDefinitions.cs" Line="485" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Example PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1C32B28A-78F2-4207-8DB4-3A300E442CAC" />
+  <MultiItemStartupConfigurations />
+</Properties>

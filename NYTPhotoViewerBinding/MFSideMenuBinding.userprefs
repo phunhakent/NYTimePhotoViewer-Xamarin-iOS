@@ -1,0 +1,14 @@
+<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NYTPhotoViewerBinding/ApiDefinitions.cs">
+    <Files>
+      <File FileName="NYTPhotoViewerBinding/ApiDefinitions.cs" Line="60" Column="3" />
+      <File FileName="NYTPhotoViewerBinding/obj/Debug/ios/NYTPhotoViewer/UILabel_NYTPhotoCaptionViewLayoutWidthHinting.g.cs" Line="38" Column="123" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
